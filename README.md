@@ -29,6 +29,8 @@ This project creates a smart car using an ESP8266 (NodeMCU), which is controlled
 | GND         | GND                  | Common Ground            |
 | VIN         | VCC (Optional)       | Power L298N if needed    |
 
+
+![Circuit Diagram](Screenshot_20250518-143749.png)
 > **Note:** ENA and ENB are PWM-enabled pins to control speed using `analogWrite()`.
 
 ---
